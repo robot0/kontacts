@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kenbabatope:Onochoja1971!@kontact-ebnfb.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
